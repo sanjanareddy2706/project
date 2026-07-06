@@ -1,4 +1,3 @@
-# project
 # 📘 College Connect
 
 A web-based communication platform for colleges with real-time chat, announcements, and file/resource sharing.
